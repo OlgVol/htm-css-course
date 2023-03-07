@@ -1,0 +1,67 @@
+.home {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.your-movie-list {
+  font-size: 10px;
+  background-color: white;
+  width: 90%;
+  height: auto;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  border: 4px solid white;
+}
+
+td {
+  margin: 10px;
+  background-color: #d9d9d9;
+  height: 20px;
+}
+
+.movie-name {
+  border-top-left-radius: 5em;
+  border-bottom-left-radius: 5em;
+}
+
+.paginations {
+  background-color: black;
+  margin: 20px;
+
+}
+
+.time {
+  display: inline-block;
+  align-items: center;
+}
+
+.rent-time {
+  position: relative;
+  font-weight: bold;
+
+}
+
+button {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: red;
+  border: none;
+  color: white;
+  font-size: 10px;
+}
