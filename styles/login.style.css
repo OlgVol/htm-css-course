@@ -1,0 +1,49 @@
+main {
+  align-items: center;
+}
+
+input {
+  display: block;
+  background-color: white;
+}
+
+.singIn-section {
+  display: block;
+  background-color: white;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  padding: 10px 10px 10px 25px;
+  width: 180px;
+}
+
+.register-section {
+  display: block;
+  background-color: white;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  align-items: center;
+  padding: 10px 10px 10px 25px;
+  width: 180px;
+}
+
+input {
+  background-color: whitesmoke;
+  border: 1px solid whitesmoke;
+}
+
+label {
+  text-align: start;
+  font-size: 10px;
+}
+
+.button {
+  position: relative;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 12px;
+  font-size: 10px;
+  margin: 25%;
+  text-decoration: none;
+  padding: 5px 15px 5px 15px;
+  align-items: center;
+}
